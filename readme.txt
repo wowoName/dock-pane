@@ -5,3 +5,6 @@
 
 demo：
 http://www.javasc.cn/layout/index.html#/
+
+name:1
+psd:1

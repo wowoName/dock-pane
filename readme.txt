@@ -5,6 +5,4 @@
 
 demo：
 http://www.javasc.cn/layout/index.html#/
-
-name:1
-psd:1
+用户名：1 密码：1
